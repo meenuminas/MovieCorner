@@ -1,0 +1,44 @@
+.hh{
+    font-family: 'Romanesco', cursive;
+    
+}
+.pp{
+    
+  font-family: "Bad Script", cursive;
+}
+.ll{
+    font-family: "Romanesco", cursive;
+    font-size: 60px;
+}
+.kp{
+  font-family: "Stylish", serif;
+}
+.desc{
+  font-weight: 900;
+}
+.tt{
+  font-family: "Emilys Candy", serif;
+}
+.bg-white{
+  border-radius: 7px;
+}
+.nn{
+     border-radius: 25px;
+     padding: 9px;
+}
+.upl{
+  border-radius: 25px;
+}
+/* .blur{
+  filter: blur(4px);
+
+} */
+
+.hed{
+  font-family: "Pattaya", sans-serif;
+  color: rgb(1, 39, 17);
+}
+.pc{
+  font-family: "Pacifico", cursive;
+ 
+}
