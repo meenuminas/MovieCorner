@@ -42,3 +42,34 @@
   font-family: "Pacifico", cursive;
  
 }
+.pph{
+
+    width: 600px;
+    fill: none;
+    background: transparent;
+    border: none;
+    /* border-bottom: 1px solid grey; */
+    font-size: 18px;
+    margin-bottom: 16px;
+    font-family: "Bad Script", cursive;
+}
+.mto{
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid grey;
+}
+.without, input[type="submit"] {
+  background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+.mtop{
+  background: transparent;
+  border: none;
+  fill: none;
+  border-bottom: 1px solid grey;
+}

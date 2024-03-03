@@ -6,7 +6,7 @@ import Header from '../components/Header'
 function AdminDashboard() {
   return (
     <>
-    <Header/>
+    <Header insideaddmovies/>
     <div style={{ marginTop: '100px' }} className='container'>
      
       <div className="row">

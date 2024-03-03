@@ -9,7 +9,7 @@ function Ticketbook() {
       <Header />
       <div className='container-fluid d-flex justify-content-center align-items-center  w-100' style={{ marginTop: '100px' }}>
         <Container className='shadow p-3 mb-5 rounded'>
-          <h1 className='text-center mt-3 tt'>Book Tickets for Movie</h1>
+        
         <BookingMovie></BookingMovie>
         </Container>
       </div>
